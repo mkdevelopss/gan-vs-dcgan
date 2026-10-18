@@ -1,0 +1,1 @@
+{"kind": "dcgan", "dataset": "afhq", "class": "cat", "epochs": 150, "latent_dim": 100, "images": 5653}

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
+
+# Downloaded / cached data (large, re-downloadable)
+data/
+data_cache/
+*.npy
+*.zip
+
+# Training outputs (copy the best images into assets/ instead)
+gan_outputs/
+generated.png
+
+# OS
+.DS_Store
+Thumbs.db
